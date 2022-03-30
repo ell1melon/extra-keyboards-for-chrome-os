@@ -13,7 +13,7 @@
       "id": "bderrly_example_xkb_us",
       "description": "Example XKB layout",
       "language": ["en-US"],
-      "layouts": ["us(example)"]
+      "layouts": ["us"]
     }
   ]
 }
