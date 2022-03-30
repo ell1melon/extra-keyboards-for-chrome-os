@@ -1,8 +1,8 @@
 {
-  "name": "Rick Astley Layout US",
+  "name": "Example Remap",
   "version": "1.0",
-  "manifest_version": 1,
-  "description": "Rick Astley layout remapped from US English",
+  "manifest_version": 3,
+  "description": "Example keyboard layout remapped from US English",
   "background": {
     "scripts": ["background.js"]
   },
@@ -13,11 +13,10 @@
     {
       "name": "My Example Remapped layout",
       "type": "ime",
-      "id": "ellimelon-remap-layout",
+      "id": "bderrly-remap-layout",
       "description": "A really cool keyboard layout.",
       "language": "en-US",
       "layouts": ["us"]
     }
   ]
 }
-
