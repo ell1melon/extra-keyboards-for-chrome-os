@@ -1,8 +1,8 @@
 {
-  "name": "Example Remap",
+  "name": "Rick Astley Layout US",
   "version": "1.0",
   "manifest_version": 3,
-  "description": "Example keyboard layout remapped from US English",
+  "description": "Rick Astley layout remapped from US English",
   "background": {
     "scripts": ["background.js"]
   },
